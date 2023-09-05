@@ -208,6 +208,7 @@ class _ShoppingCartTabState extends State<ShoppingCartTab> {
                 ),
               );
             }
+            return null;
         }
       },
     );
